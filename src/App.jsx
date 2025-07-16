@@ -65,8 +65,8 @@ const links = [
   
   {
     title: "GitHub",
-    url: "https://github.com/itinhu",
-    icon: <Github size={20} />,
+    url: "https://twitch.tv/itinhuz",
+    icon: <Twitch size={20} />,
   },
   {
     title: "LinkedIn",
