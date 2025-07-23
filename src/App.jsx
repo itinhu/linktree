@@ -1,5 +1,5 @@
 "use client"
-
+import { Twitch } from "lucide-react"
 import { useState, useEffect } from "react"
 import { Github, Linkedin, Mail, Globe, Gamepad2, ExternalLink } from "lucide-react"
 import "./App.css"
