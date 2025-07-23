@@ -64,7 +64,7 @@ function App() {
 const links = [
   
   {
-    title: "GitHub",
+    title: "Twitch",
     url: "https://twitch.tv/itinhuz",
     icon: <Twitch size={20} />,
   },
